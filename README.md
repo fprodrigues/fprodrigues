@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Ruby, rails, angularjs, magento, typescript**
 
-- 📫 How to reach me **dombalder@gmail.com**
+- 📫 How to reach me **fernando_rodrigues@lionroutes.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
