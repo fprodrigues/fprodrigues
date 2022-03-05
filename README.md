@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/website-LionRoutes-blue"/>
 </p>
 
+<p align="center">
+  <img src="https://lionroutes.com/image/sakura.gif"/>
+</p>
+
+
 <h3 align="center">A crazy Senior FullStack developer who "loves" IA and testing.</h3>
 
 - 🌱 I’m currently learning **testing API and security cicles**
